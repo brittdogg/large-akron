@@ -1,0 +1,14 @@
+- Clone git repo
+- IPFS
+    - make sure it's running (ipfs daemon)
+- npm
+- truffle
+- vs code
+- ganache
+    - make sure it's running 
+- npm install 
+- truffle migrate
+- truffle test 
+- discord
+
+
